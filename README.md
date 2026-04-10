@@ -41,11 +41,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cs,c,nextjs,react,tailwind,html,css,nodejs,postgres,mysql,prisma,linux,debian,kali,github,git" />
 </p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Boris Kirov" height="30" width="40" /></a>
-  <a href="mailto:YOUR_EMAIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Boris Kirov" height="30" width="40" /></a>
-</p>
