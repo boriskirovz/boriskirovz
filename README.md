@@ -5,42 +5,36 @@
   <summary>Натиснете за български език 🇧🇬</summary>
   
   ### 👨‍💻 За мен
-  * 🎓 **Системен програмист**, възпитаник на МГ „Академик Кирил Попов“ – Пловдив.
-  * 🛡️ **Ентусиаст в киберсигурността** с фокус върху защитата на данни.
-  * 🛠️ Създател на **Passhield** – професионално решение за управление на пароли, включващо уеб табло и браузърно разширение.
-  * ⚡ Специалист в изграждането на сигурни приложения с Next.js и Plasmo.
-  * 📍 Базиран в Пловдив, България.
+  * 🛡️ **Разработчик в сферата на киберсигурността**, специализиран в криптографски методи, защитена комуникация и сигурен пренос на данни
+  * 💻 **Системен програмист**, възпитаник на МГ „Академик Кирил Попов“ – Пловдив
+  * 🛠️ Създател на **Passhield** – професионално решение за управление на пароли, включващо уеб табло и браузърно разширение
 
   ---
 
   ### 📚 Образование
-  * 🏫 **МГ „Академик Кирил Попов“, гр. Пловдив** (2020 - 2025).
-    * **Професия:** Системен програмист.
-    * **Специалност:** Системно програмиране.
-    * **Дипломен проект:** Passhield – Уеб приложение за управление на пароли.
-
-  ---
-
-  ### 🏆 Постижения и Проекти
-  * 🛡️ **Passhield Suite:** Цялостна система, използваща AES-256-CBC криптиране и PBKDF2 хеширане.
-  * 💳 **Финансови транзакции:** Интеграция на абонаментни планове чрез Stripe API.
-  * ✅ **Качество на кода:** Валидирана сигурност чрез автоматизирани тестове с Jest.
+  * 🏫 **Технически университет – София** (2025 – днес)
+    * **Специалност:** Киберсигурност
+  * 🎓 **МГ „Академик Кирил Попов“, гр. Пловдив** (2020 - 2025)
+    * **Професия:** Системен програмист
+    * **Специалност:** Системно програмиране
+    * **Дипломен проект:** Passhield – Уеб приложение за управление на пароли
 </details>
 
 ---
 
-### 👨‍💻 About Me (English)
-* 🎓 **System Programmer** graduate from MG "Acad. Kiril Popov" - Plovdiv.
-* 🛡️ **Cyber Security Enthusiast** focused on password management and data protection.
-* 🛠️ Creator of **Passhield** – a professional password management suite with a web dashboard and browser extension.
-* ⚡ Expert in building secure applications using Next.js and Plasmo framework.
+### 👨‍💻 About Me
+* 🛡️ **Cybersecurity Developer** specialized in cryptographic protocols, secure communications, and protected data transmission
+* 💻 **System Programmer** graduate from MG "Acad. Kiril Popov" - Plovdiv
+* 🛠️ Creator of **Passhield** – a professional password manager with a web dashboard and browser extension
 
 ---
 
 ### 📚 Education
-* 🏫 **MG "Acad. Kiril Popov", Plovdiv** (2020 - 2025).
-  * **Major:** System Programming.
-  * **Diploma Project:** Passhield – Secure Password Manager.
+* 🏫 **Technical University of Sofia** (2025 – Present)
+  * **Major:** Cybersecurity
+* 🎓 **MG "Acad. Kiril Popov", Plovdiv** (2020 - 2025)
+  * **Major:** System Programming
+  * **Diploma Project:** Passhield – Secure Password Manager
 
 ---
 
