@@ -39,7 +39,7 @@
 
 ### 🛠️ Languages and Tools I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,c,nextjs,react,tailwind,html,css,nodejs,postgres,mysql,prisma,linux,debian,fedora,kali,github,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,c,nextjs,react,tailwind,html,css,nodejs,postgres,mysql,prisma,linux,debian,kali,github,git" />
 </p>
 
 ---
