@@ -1,6 +1,5 @@
 # Hey there! I'm Boris 👋
 
-### 🌍 Language / Език
 <details>
   <summary>Натиснете за български език 🇧🇬</summary>
   
@@ -40,7 +39,7 @@
 
 ### 🛠️ Languages and Tools I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,postgres,prisma,tailwind,jest,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c#,c,nextjs,react,tailwind,nodejs,postgres,mySQL,prisma,linux,kali,github,git" />
 </p>
 
 ---
